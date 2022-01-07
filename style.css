@@ -1,0 +1,127 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+p{
+    text-align: justify;
+}
+h1{
+    font-size: 50px;
+}
+#stay-mission-border{
+    border-left: 6px solid orangered;
+    padding-left: 10px;
+}
+#mission-color{
+    color: orange;
+}
+.my-mission-area{
+    margin: 5%;
+}
+#mission-area-text{
+    text-align: center;
+}
+.mission-item{
+    width: 150%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    text-align: justify;
+}
+.mission-img{
+    width:200px;
+    height:200px;
+    object-fit: cover;
+    float: left;
+    margin-top: 50px;
+    left: 20px;
+    margin: 10px;
+}
+#mission-details{
+    background-color: lightblue;
+}
+#vission-details{
+    background-color: moccasin;
+}
+#goals-details{
+    background-color: lightpink;
+}
+.flexible-container{
+    display: flex;
+    margin: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white; 
+}
+.develop-limits{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.golbal-project{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px 200px;
+    background-position: right bottom;
+}
+#in2022-color{
+    color: orange;
+}
+}
+#corona-color{
+    color: orange;
+}
+#corona-app-color{
+    color: orange;
+}
+.build-corona-app{
+    
+    
+}
+#bg-img{
+    background-image: url(shape-3.png), url(shape-3.png), url(shape-3.png);
+    background-repeat: no-repeat;
+    background-position: left top, left bottom, right;
+    background-size: 150px 150px, 100px 100px, 100px 100px;
+
+}
+
+#build-text{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    color: orange;
+    background-color: black;
+    height: 150px;
+    line-height: 70px;
+}
+#fotter-mission-color{
+    color: white;
+    font-weight: bolder;
+}
+.mission-2022-style{
+    font-style: italic;
+    font-size: 30px;
+
+}
+#last-footer-style{
+    color: white;
+    font-style: normal;
+}
